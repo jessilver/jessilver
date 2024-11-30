@@ -17,7 +17,7 @@ I'm always open to collaborating on exciting projects that have a positive impac
 
 ## Contact
 - **Email:** jessilver@example.com
-- **LinkedIn:** [Jesse Silva](https://www.linkedin.com/in/jesse-eliseu-nunes-da-silva)
+- **LinkedIn:** [Jesse Silva](https://www.linkedin.com/in/jesse-eliseu-nunes-da-silva-68283127b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub:** [@jessilver](https://github.com/jessilver)
 
 ## Fun Fact
