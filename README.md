@@ -1,5 +1,12 @@
-<h1 align="center">Hi there, I'm Jessé Silva! 👋</h1>
+<h1 align="center" >Hi there, I'm Jessé Silva! 👋</h1>
 
+<div align="center">
+   <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jessilver/jessilver/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessilver/jessilver/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jessilver/jessilver/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 <h2>About Me</h2>
 <p>Hello! I'm <span>Jessilver</span>, a passionate web developer with a keen interest in open-source projects and continuous learning. I love exploring new technologies and applying them to solve real-world problems.</p>
@@ -33,12 +40,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=jessilver&show_icons=true&theme=dracula" alt="jess's GitHub stats">
     </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jessilver/jessilver/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessilver/jessilver/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jessilver/jessilver/output/github-contribution-grid-snake.svg">
-</picture>
 
 <h2 align="center">Contact me</h2>
 
