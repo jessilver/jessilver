@@ -6,19 +6,19 @@
 <title>Jessé Silva's Profile</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 <style>
-    body {
-        font-family: 'Poppins', sans-serif;
-    }
-    h1, h2 {
-        font-family: 'Poppins', sans-serif;
-    }
-    .center {
-        display: flex;
-        justify-content: center;
-    }
-    .social-links a {
-        margin: 0 10px;
-    }
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+.social-links a {
+    margin: 0 10px;
+}
 </style>
 </head>
 <body>
