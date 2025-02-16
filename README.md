@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Jessé Silva! 👋</h1>
+<h1 align="center">Hi there, I'm Jessé Silva! 👋</h1>
 
 
 <h2>About Me</h2>
@@ -10,29 +10,20 @@
     <li><strong>Learning:</strong> Currently diving into advanced JavaScript frameworks and backend development.</li>
 </ul>
 
-<h2 align="center">Lenguages</h2>
+<h2>Lenguages</h2>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,python,java,js,css,html" />
   </a>
 </p>
 
-<h2 align="center">Current Learning</h2>
+<h2>Current Learning</h2>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,laravel,docker" />
   </a>
-</p>
-
-<h2 align="center">Contact me</h2>
-
-<p align="center">
-    <a href="https://instagram.com/jes.silv4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="mailto:jesse1eliseu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/jess%C3%A9-eliseu-nunes-da-silva-68283127b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <br>
@@ -42,3 +33,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=jessilver&show_icons=true&theme=dracula" alt="jess's GitHub stats">
     </a>
 </div>
+
+<h2 align="center">Contact me</h2>
+
+<p align="center">
+    <a href="https://instagram.com/jes.silv4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> -->
+    <a href="mailto:jesse1eliseu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/jess%C3%A9-eliseu-nunes-da-silva-68283127b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
