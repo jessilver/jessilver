@@ -3,23 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Jessé Silva's Profile</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
-<style>
-body {
-    font-family: 'Poppins', sans-serif;
-}
-h1, h2 {
-    font-family: 'Poppins', sans-serif;
-}
-.center {
-    display: flex;
-    justify-content: center;
-}
-.social-links a {
-    margin: 0 10px;
-}
-</style>
+
+<link rel="stylesheet" href="styles.css">
+
 </head>
 <body>
 <h1>Hi there, I'm Jessé Silva!</h1>
