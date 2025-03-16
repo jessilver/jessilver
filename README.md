@@ -48,4 +48,6 @@
     <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> -->
     <a href="jesse1eliseu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://www.linkedin.com/in/jess%C3%A9-eliseu-nunes-da-silva-68283127b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://pypi.org/user/jessilver/" target="_blank"><img src="https://img.shields.io/badge/-PyPi-%23339?style=for-the-badge&logo=linkedin&logoColor=white" alt="PyPI"></a>
+
 </p>
